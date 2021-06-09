@@ -1,5 +1,6 @@
 # AI-ComputerVision
 ## Introduction to Computer Vision
+
 ### Introduction to Computer Vision
 ### Image Representation and Analysis
 ### Convolutional NN Layers
@@ -7,6 +8,8 @@
 ### Image Segmentation
 ## Advanced Computer Vision and Deep Learning
 ### Advanced CNN Architecture
+- Faster R-CNN
+- YOLO/single shot object detection system
 ### Recurrent Neural Networks
 ### Attention Mechanisms
 ### Image Captioning
