@@ -11,6 +11,10 @@
 - Faster R-CNN
 - YOLO/single shot object detection system
 ### Recurrent Neural Networks
+- Feedforward neural network
+- Backpropagation through time
+- Folded model
+- Unfolded model
 ### Attention Mechanisms
 ### Image Captioning
 ## Object Tracking and Localization
