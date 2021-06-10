@@ -15,6 +15,10 @@
 - Backpropagation through time
 - Folded model
 - Unfolded model
+#### LSTM
+- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- http://blog.echen.me/2017/05/30/exploring-lstms/
+- https://www.youtube.com/watch?v=iX5V1WpxxkY
 ### Attention Mechanisms
 ### Image Captioning
 ## Object Tracking and Localization
