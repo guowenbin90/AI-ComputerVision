@@ -1,6 +1,6 @@
 # AI-ComputerVision
 ## Introduction to Computer Vision
-
+Images as Numerical Data.ipynb
 ### Introduction to Computer Vision
 ### Image Representation and Analysis
 ### Convolutional NN Layers
