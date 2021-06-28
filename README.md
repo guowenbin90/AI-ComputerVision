@@ -8,6 +8,7 @@ We can multiply every single one by a scalar to change how bright the image is, 
 Most color and shape transformations are done just by mathematically operating on an image and changing it pixel-by-pixel.
 ### Introduction to Computer Vision
 - Color Threshold, Blue Screen
+- HSV Color Space, Balloons
 ### Image Representation and Analysis
 ### Convolutional NN Layers
 ### Features and Object Recognition
