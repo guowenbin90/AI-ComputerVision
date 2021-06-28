@@ -7,6 +7,7 @@ We can multiply every single one by a scalar to change how bright the image is, 
 - **Treating images as grids of numbers is the basis for many image processing techniques.**  
 Most color and shape transformations are done just by mathematically operating on an image and changing it pixel-by-pixel.
 ### Introduction to Computer Vision
+- Color Threshold, Blue Screen
 ### Image Representation and Analysis
 ### Convolutional NN Layers
 ### Features and Object Recognition
