@@ -12,6 +12,7 @@ Most color and shape transformations are done just by mathematically operating o
 ### Image Representation and Analysis
 ### Convolutional NN Layers
 ### Features and Object Recognition
+A feature a measurable component of an image or object that is, ideally, unique and recognizable under varying conditions - like under varying light or camera angle. 
 ### Image Segmentation
 ## Advanced Computer Vision and Deep Learning
 ### Advanced CNN Architecture
