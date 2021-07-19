@@ -11,6 +11,8 @@ Most color and shape transformations are done just by mathematically operating o
 - HSV Color Space, Balloons
 ### Image Representation and Analysis
 ### Convolutional NN Layers
+- conv_layer_visualization.ipynb
+- Load and Visualize FashionMNIST.ipynb
 ### Features and Object Recognition
 A feature a measurable component of an image or object that is, ideally, unique and recognizable under varying conditions - like under varying light or camera angle. 
 ### Image Segmentation
